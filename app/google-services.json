@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "514978828903",
+    "firebase_url": "https://interviewtask-a1569.firebaseio.com",
+    "project_id": "interviewtask-a1569",
+    "storage_bucket": "interviewtask-a1569.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514978828903:android:d2d89fd0a94a4e09",
+        "android_client_info": {
+          "package_name": "gps.ice.sms.com.interviewtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514978828903-s6avpq8d6u4augfdj44ooce482dt9qj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gps.ice.sms.com.interviewtask",
+            "certificate_hash": "0042ebecc153b67fb0f987c5a96b452b3f56dce2"
+          }
+        },
+        {
+          "client_id": "514978828903-hcfdskqamc4t21huth888t4nha49t2i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV2dkW9AMV943Egq721hE3EzgoKaeTmbk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514978828903-hcfdskqamc4t21huth888t4nha49t2i8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
